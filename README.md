@@ -1,2 +1,2 @@
 # psychic-waffle
-My Developer Website
+Website
